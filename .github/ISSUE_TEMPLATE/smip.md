@@ -18,6 +18,10 @@ assignees: ''
 
 <!-- Explain the high-level design being proposed. -->
 
+## Prior art
+
+<!-- Explain how other projects or protocols have solved this problem, or relevant prior work in Spacemesh. -->
+
 ## Proposed implementation
 
 <!-- Briefly explain the proposed implementation. -->
