@@ -10,6 +10,10 @@ assignees: ''
 
 <!-- Please provide a high-level overview of the proposal. -->
 
+## Scope
+
+<!-- Please briefly state the scope of the proposal, including things that are explicitly not included (if relevant). -->
+
 ## Goals and motivation
 
 <!-- Explain the background, motivation, and goals of the proposal. -->
@@ -22,13 +26,13 @@ assignees: ''
 
 <!-- Explain how other projects or protocols have solved this problem, or relevant prior work in Spacemesh. -->
 
-## Proposed implementation
+## Proposed design or implementation
 
 <!-- Briefly explain the proposed implementation. -->
 
 ## Implementation plan
 
-<!-- Provide more details about the proposed implementation plan such as roadmap and milestones. -->
+<!-- Provide more details about the proposed implementation plan such as roadmap and milestones, if relevant. -->
 
 ## Questions
 
