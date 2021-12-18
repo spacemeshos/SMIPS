@@ -26,9 +26,9 @@ assignees: ''
 
 <!-- Explain how other projects or protocols have solved this problem, or relevant prior work in Spacemesh. -->
 
-## Proposed design or implementation
+## Specification
 
-<!-- Briefly explain the proposed implementation. -->
+<!-- The complete proposed design. -->
 
 ## Implementation plan
 
